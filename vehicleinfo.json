@@ -27,4 +27,32 @@
 			}
 		]
 	}
+        {
+		"CustomerNumber": "11",
+		"CustomerName": "Tractor Lease 2",
+		"CustomerContact": "Type   /72",
+		"Address1": "Accounts Payable",
+		"Address2": "1805 Kelly Road",
+		"City": "Cordele",
+		"State": "GA",
+		"Zip": "31015",
+		"Phone": "229 276 0390",
+		"Email": "",
+		"Vehicles": [
+			{
+				"VehicleNumber": "538109",
+				"VehicleDomicileLocation": "00505",
+				"IssueLocation": "00281",
+				"Make": "FRTL",
+				"Model": "CASCADIA 125",
+				"Year": "2014",
+				"VIN": "1111",
+				"CurrentOdometer": "393398",
+				"ProductLine": "11",
+				"EngineMake": "DETR",
+				"EngineModel": "DD15",
+				"LesseeNumber": "012636"
+			}
+		]
+	}	
 ]
